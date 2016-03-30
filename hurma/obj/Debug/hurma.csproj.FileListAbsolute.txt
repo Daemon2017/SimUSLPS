@@ -1,0 +1,26 @@
+c:\users\dmitriy\documents\visual studio 2013\Projects\hurma\hurma\bin\Debug\hurma.exe.config
+c:\users\dmitriy\documents\visual studio 2013\Projects\hurma\hurma\bin\Debug\hurma.exe
+c:\users\dmitriy\documents\visual studio 2013\Projects\hurma\hurma\bin\Debug\hurma.pdb
+c:\users\dmitriy\documents\visual studio 2013\Projects\hurma\hurma\obj\Debug\hurma.csprojResolveAssemblyReference.cache
+c:\users\dmitriy\documents\visual studio 2013\Projects\hurma\hurma\obj\Debug\hurma.Form1.resources
+c:\users\dmitriy\documents\visual studio 2013\Projects\hurma\hurma\obj\Debug\hurma.Properties.Resources.resources
+c:\users\dmitriy\documents\visual studio 2013\Projects\hurma\hurma\obj\Debug\hurma.csproj.GenerateResource.Cache
+c:\users\dmitriy\documents\visual studio 2013\Projects\hurma\hurma\obj\Debug\hurma.exe
+c:\users\dmitriy\documents\visual studio 2013\Projects\hurma\hurma\obj\Debug\hurma.pdb
+C:\Users\Dmitriy\documents\visual studio 2013\Projects\hurma\hurma\bin\Debug\hurma.exe.manifest
+C:\Users\Dmitriy\documents\visual studio 2013\Projects\hurma\hurma\bin\Debug\hurma.application
+C:\Users\Dmitriy\documents\visual studio 2013\Projects\hurma\hurma\obj\Debug\hurma.exe.manifest
+C:\Users\Dmitriy\documents\visual studio 2013\Projects\hurma\hurma\obj\Debug\hurma.application
+C:\Users\Daemon\Documents\GitHub\SimUSLPS\hurma\bin\Debug\hurma.exe.config
+C:\Users\Daemon\Documents\GitHub\SimUSLPS\hurma\obj\Debug\hurma.exe
+C:\Users\Daemon\Documents\GitHub\SimUSLPS\hurma\obj\Debug\hurma.pdb
+C:\Users\Daemon\Documents\GitHub\SimUSLPS\hurma\bin\Debug\hurma.exe.manifest
+C:\Users\Daemon\Documents\GitHub\SimUSLPS\hurma\bin\Debug\hurma.application
+C:\Users\Daemon\Documents\GitHub\SimUSLPS\hurma\bin\Debug\hurma.exe
+C:\Users\Daemon\Documents\GitHub\SimUSLPS\hurma\bin\Debug\hurma.pdb
+C:\Users\Daemon\Documents\GitHub\SimUSLPS\hurma\obj\Debug\hurma.csprojResolveAssemblyReference.cache
+C:\Users\Daemon\Documents\GitHub\SimUSLPS\hurma\obj\Debug\hurma.Form1.resources
+C:\Users\Daemon\Documents\GitHub\SimUSLPS\hurma\obj\Debug\hurma.Properties.Resources.resources
+C:\Users\Daemon\Documents\GitHub\SimUSLPS\hurma\obj\Debug\hurma.csproj.GenerateResource.Cache
+C:\Users\Daemon\Documents\GitHub\SimUSLPS\hurma\obj\Debug\hurma.exe.manifest
+C:\Users\Daemon\Documents\GitHub\SimUSLPS\hurma\obj\Debug\hurma.application
